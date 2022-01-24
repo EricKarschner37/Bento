@@ -85,5 +85,7 @@ const CONFIG = {
 
   // Links
   lists: {
+    firstList: [],
+    secondList: []
   },
 };
